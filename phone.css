@@ -1,0 +1,39 @@
+/* CSS For Small Phones  */
+
+@media (max-width:780px) {
+    .nav-bar {
+        display: flex;
+        height: 90px;
+    }
+
+    .nav-list {
+        display: none;
+    }
+
+    .logo {
+        margin-left: 50px;
+    }
+
+    .menu-bar {
+        display: initial;
+        margin-left: 550px;
+        margin-top: 45px;
+        font-size: 35px;
+    }
+
+    /* Main-1 CSS  */
+
+    .m1-container {
+        margin-left: 50px;
+        width: 643px;
+    }
+
+    .m1-heading {
+        font-size: 50px;
+        margin-left: 200px;
+    }
+
+    .m1-heading-1 {
+        font-size: 50px;
+    }
+} 
